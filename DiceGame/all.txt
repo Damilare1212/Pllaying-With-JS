@@ -1,0 +1,50 @@
+chtsk
+schtask
+schtasks
+schtask > task.txt
+schtasks > task.txt
+ver
+openfiles
+cd ..
+cd user
+cd users
+cd hp
+ipconfig
+ipconfig > ipconfig.txt
+ipconfig /all
+ipconfig /all > ipconfigall.txt
+ipconfig /renew
+ipconfig /dns
+ipconfig /displaydns
+ipconfig /diplaydns > dns.txt
+ipconfig /help
+ping
+ping /?
+ping 172.28.48.1
+ping 192.168.100.3
+ping -?
+ping -t  172.28.48.1
+tasklist
+taskkill /f /im notepad.exe
+taskkill /pid 16772
+tasklist
+doskey/history
+taskill /f /controlpanel.exe
+taskkill /f /controlpanel.exe
+taskkill /f /im controlpanel.exe
+tasklist
+taskkill /f /im powershel.exe
+taskkill /f /im powershell.exe
+gpupdate
+gpupdate /force
+gpupdate /?
+gpresult /?
+net use /?
+net use z:
+net use c:
+doskey/history >CmdHistory.txt
+man touch
+man touch\
+shutdown -h -t 30
+shutdown /h /t 25
+ doskey/history > all.txt
